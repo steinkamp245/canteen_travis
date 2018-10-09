@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "gsdg23fsdfg3r2fsdg1hG",
+    "db": "mongodb://localhost:27017/canteen_menu_test"
+}
